@@ -92,14 +92,3 @@ This project implements an IoT system where an ESP32 microcontroller collects da
   ```cpp
   const char* raspberryIP = "Your_Raspberry_Pi_IP";
   ```
-
----
-
-## Contact  
-For questions or support, feel free to reach out:  
-**Email**: [your.email@example.com]  
-**GitHub**: [GitHub Profile Link]  
-
---- 
-
-This README provides all necessary details for understanding, setting up, and running the project. Let me know if you'd like further customization!"# Iot-Smart-Home" 
